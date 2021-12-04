@@ -2,5 +2,101 @@
 <filelist>
 	<file name="Patch_D2.mpq" crc="D430FCFB">
 		<link>http://d2.rocks/launcher/Patch_D2.mpq</link>
+	</file>		
+	<file name="TDAgg3.dll" crc="1B0BF40F">
+		<link>http://d2.rocks/launcher/TDAgg3.dll</link>
+	</file>	
+	<file name="Diablo II Launcher.exe" crc="DC5CAE48" restartRequired="true">
+		<link>http://d2.rocks/launcher/Diablo%20II%20Launcher.exe</link>
+	</file>
+	<file name="binkw32.dll" crc="5934B4A7">
+		<link>http://d2.rocks/launcher/binkw32.dll</link>
+	</file>
+	<file name="Bnclient.dll" crc="A4CD6743">
+		<link>http://d2.rocks/launcher/Bnclient.dll</link>
+	</file>	
+	<file name="D2Client.dll">
+		<link>http://d2.rocks/launcher/D2Client.dll</link>
+	</file>		
+	<file name="D2CMP.dll" crc="E999AC9D">
+		<link>http://d2.rocks/launcher/D2CMP.dll</link>
+	</file>
+	<file name="D2Common.dll">
+		<link>http://d2.rocks/launcher/D2Common.dll</link>
+	</file>	
+	<file name="D2DDraw.dll" crc="320947A3">
+		<link>http://d2.rocks/launcher/D2DDraw.dll</link>
+	</file>
+	<file name="D2Direct3D.dll" crc="64AD16A0">
+		<link>http://d2.rocks/launcher/D2Direct3D.dll</link>
+	</file>
+	<file name="D2Game.dll" crc="ABB59EE3">
+		<link>http://d2.rocks/launcher/D2Game.dll</link>
+	</file>
+	<file name="D2Gdi.dll" crc="E080E0D9">
+		<link>http://d2.rocks/launcher/D2Gdi.dll</link>
+	</file>
+	<file name="D2gfx.dll" crc="F1E0BAF6">
+		<link>http://d2.rocks/launcher/D2gfx.dll</link>
+	</file>
+	<file name="D2Glide.dll" crc="385DC521">
+		<link>http://d2.rocks/launcher/D2Glide.dll</link>
+	</file>	
+	<file name="D2Lang.dll">
+		<link>http://d2.rocks/launcher/D2Lang.dll</link>
+	</file>
+	<file name="D2Launch.dll" crc="D3B564F0">
+		<link>http://d2.rocks/launcher/D2Launch.dll</link>
+	</file>
+	<file name="D2MCPClient.dll" crc="480A9856">
+		<link>http://d2.rocks/launcher/D2MCPClient.dll</link>
+	</file>
+	<file name="D2Multi.dll" crc="2631B2DB">
+		<link>http://d2.rocks/launcher/D2Multi.dll</link>
+	</file>
+	<file name="D2Net.dll" crc="D0940C0F">
+		<link>http://d2.rocks/launcher/D2Net.dll</link>
+	</file>
+	<file name="D2Sound.dll" crc="A1C34B29">
+		<link>http://d2.rocks/launcher/D2Sound.dll</link>
+	</file>
+	<file name="D2VidTst.exe" crc="5CCAB009">
+		<link>http://d2.rocks/launcher/D2VidTst.exe</link>
+	</file>
+	<file name="D2Win.dll">
+		<link>http://d2.rocks/launcher/D2Win.dll</link>
+	</file>
+	<file name="Diablo II.exe" crc="2F3D1AB0">
+		<link>http://d2.rocks/launcher/Diablo%20II.exe</link>
+	</file>
+	<file name="Fog.dll">
+		<link>http://d2.rocks/launcher/Fog.dll</link>
+	</file>
+	<file name="Game.exe" crc="8ED7CEC7">
+		<link>http://d2.rocks/launcher/Game.exe</link>
+	</file>	
+	<file name="ijl11.dll" crc="C00FE21D">
+		<link>http://d2.rocks/launcher/ijl11.dll</link>
+	</file>
+	<file name="SmackW32.dll" crc="614A9406">
+		<link>http://d2.rocks/launcher/SmackW32.dll</link>
+	</file>
+	<file name="Storm.dll" crc="5711A8B4">
+		<link>http://d2.rocks/launcher/Storm.dll</link>
+	</file>
+	<file name="glide3x.dll">
+		<link>http://d2.rocks/launcher/glide3x.dll</link>
+	</file>
+	<file name="glide-init.exe">
+		<link>http://d2.rocks/launcher/glide-init.exe</link>
+	</file>
+	<file name="ddraw.dll">
+		<link>http://d2.rocks/launcher/ddraw.dll</link>
+	</file>	
+	<file name="ddraw.ini">
+		<link>http://d2.rocks/launcher/ddraw.ini</link>
+	</file>
+	<file name="cnc-ddraw config.exe">
+		<link>http://d2.rocks/launcher/cnc-ddraw%20config.exe</link>
 	</file>
 </filelist>
