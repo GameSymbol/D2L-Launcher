@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <filelist>
-	<file name="Patch_D2.mpq" crc="D430FCFB">
+	<file name="Patch_D2.mpq" crc="AE8CDAB5">
 		<link>http://d2.rocks/launcher/Patch_D2.mpq</link>
 	</file>		
 	<file name="TDAgg3.dll" crc="257B13F1">
@@ -48,6 +48,18 @@
 	<file name="D2Launch.dll" crc="D3B564F0">
 		<link>http://d2.rocks/launcher/D2Launch.dll</link>
 	</file>
+	<file name="D2LegacyDisplayFix.dll">
+		<link>http://d2.rocks/launcher/D2LegacyDisplayFix.dll</link>
+	</file>
+	<file name="D2LegacyRes.dll">
+		<link>http://d2.rocks/launcher/D2LegacyRes.dll</link>
+	</file>
+	<file name="D2LegacyRes.json">
+		<link>http://d2.rocks/launcher/D2LegacyRes.json</link>
+	</file>
+	<file name="D2LegacyRes.mpq">
+		<link>http://d2.rocks/launcher/D2LegacyRes.mpq</link>
+	</file>	
 	<file name="D2MCPClient.dll" crc="480A9856">
 		<link>http://d2.rocks/launcher/D2MCPClient.dll</link>
 	</file>
@@ -60,6 +72,9 @@
 	<file name="D2Sound.dll" crc="A1C34B29">
 		<link>http://d2.rocks/launcher/D2Sound.dll</link>
 	</file>
+	<file name="D2Template.dll">
+		<link>http://d2.rocks/launcher/D2Template.dll</link>
+	</file>	
 	<file name="D2VidTst.exe" crc="5CCAB009">
 		<link>http://d2.rocks/launcher/D2VidTst.exe</link>
 	</file>
