@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <filelist>
-	<file name="Patch_D2.mpq" crc="AE8CDAB5">
+	<file name="Patch_D2.mpq" crc="50F26E54">
 		<link>http://d2.rocks/launcher/Patch_D2.mpq</link>
 	</file>		
 	<file name="TDAgg3.dll" crc="257B13F1">
@@ -15,7 +15,7 @@
 	<file name="Bnclient.dll" crc="A4CD6743">
 		<link>http://d2.rocks/launcher/Bnclient.dll</link>
 	</file>	
-	<file name="D2Client.dll">
+	<file name="D2Client.dll" crc="C3284C05">
 		<link>http://d2.rocks/launcher/D2Client.dll</link>
 	</file>		
 	<file name="D2CMP.dll" crc="E999AC9D">
