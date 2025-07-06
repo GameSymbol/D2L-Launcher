@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <filelist>
-	<file name="Patch_D2.mpq" crc="50F26E54">
+	<file name="Patch_D2.mpq" crc="F2D8A3EA">
 		<link>http://d2.rocks/launcher/Patch_D2.mpq</link>
 	</file>		
 	<file name="TDAgg3.dll" crc="257B13F1">
@@ -48,16 +48,19 @@
 	<file name="D2Launch.dll" crc="D3B564F0">
 		<link>http://d2.rocks/launcher/D2Launch.dll</link>
 	</file>
-	<file name="D2LegacyDisplayFix.dll">
+	<file name="D2Legacy.dll" crc="0560BAD8">
+		<link>http://d2.rocks/launcher/D2Legacy.dll</link>
+	</file>		
+	<file name="D2LegacyDisplayFix.dll" crc="5563ABBE">
 		<link>http://d2.rocks/launcher/D2LegacyDisplayFix.dll</link>
 	</file>
-	<file name="D2LegacyRes.dll">
+	<file name="D2LegacyRes.dll" crc="4BB0F3F0">
 		<link>http://d2.rocks/launcher/D2LegacyRes.dll</link>
 	</file>
-	<file name="D2LegacyRes.json">
-		<link>http://d2.rocks/launcher/D2LegacyRes.json</link>
+	<file name="D2LegacyResolution.json">
+		<link>http://d2.rocks/launcher/D2LegacyResolution.json</link>
 	</file>
-	<file name="D2LegacyRes.mpq">
+	<file name="D2LegacyRes.mpq" crc="46D47397">
 		<link>http://d2.rocks/launcher/D2LegacyRes.mpq</link>
 	</file>	
 	<file name="D2MCPClient.dll" crc="480A9856">
@@ -69,16 +72,19 @@
 	<file name="D2Net.dll" crc="D0940C0F">
 		<link>http://d2.rocks/launcher/D2Net.dll</link>
 	</file>
+	<file name="D2Patch.dll" crc="58B8332B">
+		<link>http://d2.rocks/launcher/D2Patch.dll</link>
+	</file>
+	<file name="D2Patch.mpq" crc="5A129673">
+		<link>http://d2.rocks/launcher/D2Patch.mpq</link>
+	</file>	
 	<file name="D2Sound.dll" crc="A1C34B29">
 		<link>http://d2.rocks/launcher/D2Sound.dll</link>
 	</file>
-	<file name="D2Template.dll">
-		<link>http://d2.rocks/launcher/D2Template.dll</link>
-	</file>	
 	<file name="D2VidTst.exe" crc="5CCAB009">
 		<link>http://d2.rocks/launcher/D2VidTst.exe</link>
 	</file>
-	<file name="D2Win.dll">
+	<file name="D2Win.dll" crc="210FDE02">
 		<link>http://d2.rocks/launcher/D2Win.dll</link>
 	</file>
 	<file name="Diablo II.exe" crc="2F3D1AB0">
