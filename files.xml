@@ -48,7 +48,7 @@
 	<file name="D2Launch.dll" crc="D3B564F0">
 		<link>http://d2.rocks/launcher/D2Launch.dll</link>
 	</file>
-	<file name="D2Legacy.dll" crc="0560BAD8">
+	<file name="D2Legacy.dll">
 		<link>http://d2.rocks/launcher/D2Legacy.dll</link>
 	</file>		
 	<file name="D2LegacyDisplayFix.dll" crc="5563ABBE">
