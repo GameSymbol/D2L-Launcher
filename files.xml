@@ -15,7 +15,7 @@
 	<file name="Bnclient.dll" crc="A4CD6743">
 		<link>http://d2.rocks/launcher/Bnclient.dll</link>
 	</file>	
-	<file name="D2Client.dll" crc="C3284C05">
+	<file name="D2Client.dll">
 		<link>http://d2.rocks/launcher/D2Client.dll</link>
 	</file>		
 	<file name="D2CMP.dll" crc="E999AC9D">
